@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.038,=C:\project\Src\Project1PCH1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.055,=C:\project\Src\Unit2.cpp</Transaction>
+    <Transaction>2018-12-07 14:17:40.405,=C:\project\Src\Project1PCH1.h</Transaction>
+    <Transaction>2018-12-07 14:17:40.421,=C:\project\Src\Unit2.cpp</Transaction>
+    <Transaction>2018-12-07 14:18:17.256,C:\project\Src\TextEdit\Unit2.cpp=C:\project\Src\Unit2.cpp</Transaction>
+    <Transaction>2018-12-07 14:18:17.256,C:\project\Src\TextEdit\Unit2.h=C:\project\Src\Unit2.h</Transaction>
+    <Transaction>2018-12-07 14:18:17.256,C:\project\Src\TextEdit\Unit2.dfm=C:\project\Src\Unit2.dfm</Transaction>
+    <Transaction>2018-12-07 14:18:22.581,C:\project\Src\TextEdit\Project1PCH1.h=C:\project\Src\Project1PCH1.h</Transaction>
+    <Transaction>2018-12-07 14:18:35.014,C:\project\Src\TextEdit\Project1.cbproj=C:\project\Src\Project1.cbproj</Transaction>
+    <Transaction>2018-12-07 16:41:41.770,=C:\project\Src\TextEdit\ABOUT.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
